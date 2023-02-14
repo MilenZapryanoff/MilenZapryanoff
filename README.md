@@ -1,7 +1,7 @@
 ### Hi there! My name is Milen 👋
 
 
-I am currently learning Java OOP.
+I am currently learning JAVA and working as IT Business analyst.
 So far I've collected the following certificates:
 
   
