@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+My name is Milen.
 
-<!--
-**MilenZapryanoff/MilenZapryanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CERTIFICATES:
 
-Here are some ideas to get you started:
+  QA Basics [certificate](https://softuni.bg/certificates/details/154179/702bd4b4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Programming Basics [certificate](https://softuni.bg/certificates/details/140089/040083a4)
+  
+  Programming Fundamentals [certificate](https://softuni.bg/certificates/details/148552/7e09709b)
+  
+  
+  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MilenZapryanoff&show_icons=true&locale=en" alt="MilenZapryanoff" /></p>
