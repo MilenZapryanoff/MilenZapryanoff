@@ -1,4 +1,4 @@
-### Hi there! My name is Milen 👋
+### Hello! My name is Milen 👋
 
 
 I am currently learning JAVA and working as an IT Business analyst.
