@@ -5,6 +5,7 @@ I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates:
 
 
+
   
   + Programming Fundamentals [certificate](https://softuni.bg/certificates/details/148552/7e09709b)
   
