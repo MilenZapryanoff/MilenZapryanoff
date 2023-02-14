@@ -1,7 +1,7 @@
-### Hi there! 👋
-My name is Milen.
+### Hi there! My name is Milen 👋
 
-I am currently learning Java OOP
+
+I am currently learning Java OOP.
 So far I've collected the following certificates:
 
   QA Basics [certificate](https://softuni.bg/certificates/details/154179/702bd4b4)
