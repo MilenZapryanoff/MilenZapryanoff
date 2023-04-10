@@ -14,7 +14,7 @@ So far I've collected the following certificates :
   
   + QA Basics [certificate](https://softuni.bg/certificates/details/154179/702bd4b4)
   
-  + Oracle Database 12c R2: SQL and PL/SQL [certificate](https://media.licdn.com/dms/image/C4D2DAQGDHf2MAcuO_g/profile-treasury-image-shrink_800_800/0/1668842656772?e=1677016800&v=beta&t=KszMLCpheedYxT9FencUoFnYyn6y8vhntbIczjQLNo0)
+  + Oracle Database 12c R2: SQL and PL/SQL [certificate](https://media.licdn.com/dms/image/C4D2DAQGDHf2MAcuO_g/profile-treasury-image-shrink_800_800/0/1668842656772?e=1681758000&v=beta&t=6nyScpkhn5yFim5gW1uPkjp3S13nI2fHzdejflQ_xCk)
   
   
   
