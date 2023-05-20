@@ -4,7 +4,7 @@
 I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates :
 
-  + MySQL - ongoing
+  + MySQL - ongoing course
 
   + Java OOP [certificate](https://softuni.bg/certificates/details/168971/882c9827)
 
