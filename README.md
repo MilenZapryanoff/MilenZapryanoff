@@ -4,7 +4,7 @@
 I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates :
 
-  + Spring Data - ongoing course
+  + Spring Data - [certificate](https://softuni.bg/certificates/details/180573/80c84453)
 
   + MySQL [certificate](https://softuni.bg/certificates/details/172257/52a4b645)
 
