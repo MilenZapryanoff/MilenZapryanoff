@@ -28,5 +28,7 @@ So far I've collected the following certificates :
   
 ## Skills: 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,maven,gradle,mysql,regex)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenavelikova)](https://github.com/anuraghazra/github-readme-stats)
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MilenZapryanoff&show_icons=true&locale=en" alt="MilenZapryanoff" /></p>
