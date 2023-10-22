@@ -27,6 +27,6 @@ So far I've collected the following certificates :
   + Oracle Database 19c: PL/SQL Workshop [certificate](https://i.ibb.co/Dby2xfx/IMG-5148.jpg)
   
 ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,maven,gradle,mysql,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,maven,gradle,mysql,regex)]
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MilenZapryanoff&show_icons=true&locale=en" alt="MilenZapryanoff" /></p>
