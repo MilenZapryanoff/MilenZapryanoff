@@ -6,7 +6,7 @@ So far I've collected the following certificates :
 
   + Spring Advanced - ongoing course
     
-  + Spring Fundamentals - ongoing course
+  + Spring Fundamentals - [certificate](https://softuni.bg/certificates/details/191553/6461ca2c)
 
   + Spring Data - [certificate](https://softuni.bg/certificates/details/180573/80c84453)
 
