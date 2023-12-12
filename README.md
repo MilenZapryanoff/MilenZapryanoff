@@ -4,7 +4,7 @@
 I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates :
 
-  + Spring Advanced - ongoing course
+  + Spring Advanced - [certificate](https://softuni.bg/certificates/details/197693/eff6a443)
     
   + Spring Fundamentals - [certificate](https://softuni.bg/certificates/details/191553/6461ca2c)
 
