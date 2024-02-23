@@ -4,7 +4,9 @@
 I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates :
 
-  + HTML & CSS - ongoing course
+  + JS Front-End  - ongoing course
+
+  + HTML & CSS - [certificate](https://softuni.bg/certificates/details/205362/a333f09f)
 
   + Spring Advanced - [certificate](https://softuni.bg/certificates/details/197693/eff6a443)
     
