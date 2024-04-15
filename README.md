@@ -4,7 +4,7 @@
 I am currently learning JAVA and working as an IT Business analyst.
 So far I've collected the following certificates :
 
-  + JavaScript Front-End  - ongoing course
+  + JavaScript Front-End  - [certificate](https://softuni.bg/certificates/details/212421/4bad96be)
 
   + HTML & CSS - [certificate](https://softuni.bg/certificates/details/205362/a333f09f)
 
