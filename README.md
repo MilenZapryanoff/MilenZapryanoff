@@ -6,7 +6,7 @@ So far I've collected the following certificates :
 
   + Containers and Cloud
 
-  + Software Engineering and DevOps 
+  + Software Engineering and DevOps - [certificate] (https://softuni.bg/certificates/details/229493/33d3fd1b)
 
   + JavaScript Front-End  - [certificate](https://softuni.bg/certificates/details/212421/4bad96be)
 
