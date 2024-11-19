@@ -1,12 +1,19 @@
 ### Hello! My name is Milen 👋
 
+I am currently working as a Senior IT Business Analyst in one of Bulgaria's leading financial institutions. 
 
-I am currently learning JAVA and working as an IT Business analyst.
+Recently completed my Software Engineering education with a focus on Java, equipping me with solid programming and problem-solving skills.
+While my current role centers around IT and business analysis, I’m eager to explore opportunities where I can apply my Java knowledge and grow as a developer.
+
 So far I've collected the following certificates :
 
+  + Diploma for Software Engineering with Java - [certificate](https://softuni.bg/certificates/details/229894/c18aaf2a)
+
+
+    
   + Containers and Cloud
 
-  +  Software Engineering and DevOps - [certificate](https://softuni.bg/certificates/details/229493/33d3fd1b)
+  + Software Engineering and DevOps - [certificate](https://softuni.bg/certificates/details/229493/33d3fd1b)
 
   + JavaScript Front-End  - [certificate](https://softuni.bg/certificates/details/212421/4bad96be)
 
