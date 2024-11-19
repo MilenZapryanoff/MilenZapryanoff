@@ -7,7 +7,7 @@ While my current role centers around IT and business analysis, I’m eager to ex
 
 So far I've collected the following certificates :
 
-  + Diploma for Software Engineering with Java - [certificate](https://softuni.bg/certificates/details/229894/c18aaf2a)
+  + Software Engineering with Java - [Diploma](https://softuni.bg/certificates/details/229894/c18aaf2a)
 
 
     
