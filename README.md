@@ -42,7 +42,7 @@ So far I've collected the following certificates :
   + Oracle Database 19c: PL/SQL Workshop [certificate](https://i.ibb.co/Dby2xfx/IMG-5148.jpg)
   
 ## Skills: 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,docker,githubactions,maven,gradle,regex,terraform,javascript,css,html,jenkins)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,docker,githubactions,jenkins,maven,gradle,regex,terraform,javascript,css,html)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenavelikova)](https://github.com/anuraghazra/github-readme-stats)
   
